@@ -14,7 +14,8 @@ Développer une application web en JavaScript en se basant sur l'API Spotify.
 
 Cette application me permettra de générer des playlists par genres à partir de ma liste de titres likés. Elle sera dotée d'une interface permettant la génération et la suppression de playlists liées à un compte Spotify.
 
- - Liste des actions possibles par l'utilisateur : Lier son compte
+### Liste des actions possibles par l'utilisateur :  
+ - Lier son compte
  - Spotify Obtenir ses genres les plus écoutés
  - Créer des playlists par genres à partir de sa playlist de titres likés
  - Supprimer des playlists
